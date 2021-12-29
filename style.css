@@ -1,15 +1,12 @@
 
-<h1>Hello, this is my CSS task</h1>
-<header>
 .red {
-    font: 12px, red, "Arial", sans-serif;
+    font: 16px, red, "Arial", sans-serif;
 }
 .bold{
-    font: 16 px, bold, #fff, "Arial", sans-serif;
-    background-color: green
+    font: 20 px, bold, #000, "Arial", sans-serif;
+    background-color: rgb(179, 162, 17)
 }
-</header>
-<body>
-<p class="red">This text has red color</p>
-<p class="bold">This text is bold and white</p>
-</body>
+.about{
+    font:italic, rgba(140, 51, 143, 0.774)
+}
+
