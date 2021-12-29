@@ -1,1 +1,1 @@
-[My CV] (https://MARYKUNTS.github.io/rsschool-cv/cv)
+Link: https://MARYKUNTS.github.io/rsschool-cv/
