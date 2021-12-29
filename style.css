@@ -1,0 +1,12 @@
+
+.red {
+    font: 16px, red, "Arial", sans-serif;
+}
+.bold{
+    font: 20 px, bold, #000, "Arial", sans-serif;
+    background-color: rgb(179, 162, 17)
+}
+.about{
+    font:italic, rgba(140, 51, 143, 0.774)
+}
+
